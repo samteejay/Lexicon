@@ -5,7 +5,7 @@ except ImportError:
 	
 config = {
 	'description': 'My Project',
-	'author': 'Samuel Tijani',
+	'author': 'Samuel O. Tijani',
 	'url': 'No URL',
 	'download_url': 'Just local',
 	'author_email': 'omalitijanisam@gmail.com',
